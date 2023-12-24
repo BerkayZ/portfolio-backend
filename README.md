@@ -131,4 +131,4 @@ BASE_URL="http://localhost:3399"
 Berkay Zelyurt
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the Creative Comms Attribution 4.0 License - see the LICENSE.md file for details.
