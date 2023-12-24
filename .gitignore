@@ -1,0 +1,8 @@
+.env
+.idea
+/log/system_log
+/uploads
+/tmp
+.DS_Store
+node_modules
+.package-lock.json
